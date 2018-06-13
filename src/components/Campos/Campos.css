@@ -1,0 +1,20 @@
+.submit {
+    border-radius: 4px;
+    padding: 5px;
+    background-color: red;
+    color: white;
+    transition: background-color .5s;
+    margin: auto;
+    width: 20%;
+}
+
+.submit a:hover {
+    cursor:pointer;
+    background-color: brown;
+}
+
+input {
+    margin: 2%;
+    border-radius: 5px;
+}
+
